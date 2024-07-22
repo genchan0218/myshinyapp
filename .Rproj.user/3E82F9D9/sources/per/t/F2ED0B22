@@ -1,0 +1,26 @@
+{
+    "id": "F2ED0B22",
+    "path": "C:/Users/Genki/Downloads/R Shiny Applications Book/R Shiny Applications Book/Stock App/server.R",
+    "project_path": "server.R",
+    "type": "r_source",
+    "hash": "3365055947",
+    "contents": "",
+    "dirty": false,
+    "created": 1721424759046.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "9,11",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1721680269,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1721680269242,
+    "read_only": false,
+    "read_only_alternatives": []
+}
